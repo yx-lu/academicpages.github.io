@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yuxuan Lu"
-  avatar           : "mainphoto.png"
+  avatar           : "mainphoto.jpg"
   bio              : "Yuxuan Lu is a senior undergraduate in Turing Class, Peking University. His research interests lie Blockchain, cryptography and information elicitation."
   location         : "Beijing, China"
   employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
