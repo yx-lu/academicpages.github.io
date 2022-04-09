@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## About me
 I am an undergraduate in school of Electronics Engineering and Computer Science in Peking University (2018-).
 
 I am currently advised by Prof. Yuqing Kong and my research interests are Information elicitation, blockchain and cryptography.
